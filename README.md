@@ -1,4 +1,4 @@
-sift-cf
-=======
+sift-cloudflare
+===============
 
 Cloudflare App
